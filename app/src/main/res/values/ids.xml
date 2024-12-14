@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="stockSymbol" type="id">id</item>
+    <item name="companyName" type="id">goodwell</item>
+    <item name="stockQuote" type="id">23</item>
+    <item name="insertButton" type="id">r</item>
+    <item name="displayButton" type="id">h</item>
+</resources>
